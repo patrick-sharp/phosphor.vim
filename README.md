@@ -1,4 +1,16 @@
-# Installation
+# Phosphor.vim
+
+Two vim color schemes based on old monochrome CRT monitors.
+
+### Phosphor Green
+
+![phosphor green](./images/green.png "Phosphor Green")
+
+### Phosphor Amber
+
+![phosphor amber](./images/amber.png "Phosphor Amber")
+
+## Installation
 
 Either:
 * Use a plugin manager like vundle
@@ -13,3 +25,5 @@ git clone https://github.com/patricksharp/phosphor.vim ~/.vim/pack/vendor/start/
 # with ssh
 git clone git@github.com/patricksharp/phosphor.vim ~/.vim/pack/vendor/start/phosphor.vim
 ```
+
+When you start vim, run `:colorscheme phosphorgreen` or `:colorscheme phosphoramber`
